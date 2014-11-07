@@ -3,3 +3,11 @@ html {
 	min-height: 100%;
 	background-size: cover;
 }
+
+#construction {
+	font-family: 'Oswald', sans-serif;
+}
+
+.caption {
+	font-family: 'Oswald', sans-serif;
+}
