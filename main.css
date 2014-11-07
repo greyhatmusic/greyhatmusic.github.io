@@ -8,13 +8,19 @@ html {
 	font-family: 'Oswald', sans-serif;
 	text-align: right;
 	font-size: 20px;
-	z-index: 3;
 }
 
 #caption {
 	font-family: 'Oswald', sans-serif;
 	text-align: right;
 	font-size: 20px;
+}
+
+#small_caption {
+	font-family: 'Oswald', sans-serif;
+	text-align: right;
+	font-size: 20px;
+	margin-top: 10%;
 }
 
 #container {
