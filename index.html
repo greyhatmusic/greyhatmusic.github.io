@@ -7,7 +7,14 @@
 <body>
 	<div id='container'>
 		<div id='construction'>under construction</div>
-		<div class='caption'>im working on it</p>
+		<div id='caption'>im working on it</p>
 	</div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="jquery.fittext.js"></script>
+	<script type="text/javascript">
+		$("#construction").fitText();
+		$("#caption").fitText(1.1, { minFontSize: '50px', maxFontSize: '75px' });
+	</script>
 </body>
 </html>
