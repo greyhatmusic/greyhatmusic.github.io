@@ -4,12 +4,16 @@ html {
 	background-size: cover;
 }
 
+div {
+	font-family: 'Oswald', sans-serif;
+	color: #F8F8FF;
+}
+
 #greyhat_script {
 	width:20%;
 }
 
 #construction {
-	font-family: 'Oswald', sans-serif;
 	text-align: right;
 	font-size: 20px;
 }
@@ -34,5 +38,4 @@ html {
 	right: 0;
 	margin-right: 3%;
 	margin-top: 10%;
-	color: #F8F8FF;
 }
