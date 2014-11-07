@@ -1,6 +1,7 @@
 html {
 	background:url('eastland.jpg') no-repeat center center;
 	min-height: 100%;
+	-webkit-filter:brightness(50%);
 	background-size: cover;
 }
 
