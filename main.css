@@ -1,7 +1,6 @@
 html {
-	background:url('eastland.jpg') no-repeat center center;
+	background:url('eastland_dark.jpg') no-repeat center center;
 	min-height: 100%;
-	-webkit-filter:brightness(50%);
 	background-size: cover;
 }
 
@@ -9,6 +8,7 @@ html {
 	font-family: 'Oswald', sans-serif;
 	text-align: right;
 	font-size: 20px;
+	z-index: 3;
 }
 
 #caption {
