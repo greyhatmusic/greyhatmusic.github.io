@@ -6,7 +6,11 @@ html {
 
 #construction {
 	font-family: 'Oswald', sans-serif;
-	font-size: 20%;
+}
+
+#container {
+	width: 50%;
+	height: 50%;
 }
 
 .caption {
