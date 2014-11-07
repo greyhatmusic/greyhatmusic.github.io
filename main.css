@@ -4,6 +4,10 @@ html {
 	background-size: cover;
 }
 
+#greyhat_script {
+	width:20%;
+}
+
 #construction {
 	font-family: 'Oswald', sans-serif;
 	text-align: right;
@@ -24,7 +28,7 @@ html {
 }
 
 #container {
-	width: 50%;
+	width: 80%;
 	max-width: 800px;
 	position: absolute;
 	right: 0;
