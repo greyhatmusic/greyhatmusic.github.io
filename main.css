@@ -1,5 +1,5 @@
 html {
-	background:url('rocks.jpg') no-repeat center center;
+	/*background:url('rocks.jpg') no-repeat center center;*/
 	min-height: 100%;
 	background-size: cover;
 }
@@ -7,6 +7,18 @@ html {
 div {
 	font-family: 'Oswald', sans-serif;
 	color: #F8F8FF;
+}
+
+#bg {
+overflow: hidden;
+background-image: url(rocks.jpg);
+width: 100%;
+background-size: cover;
+background-repeat: no-repeat;
+/*max-height: 500px;*/
+border-bottom: solid;
+border-bottom-color: #628027;
+border-bottom-width: 5px;
 }
 
 #greyhat_script {
