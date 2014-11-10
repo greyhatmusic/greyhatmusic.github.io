@@ -44,7 +44,8 @@ div {
 }
 
 #small_caption {
-	font-family: 'Helvetica', cursive;
+	font-family: 'Arial';
+	font-style: italic;
 	font-weight: 100;
 	text-align: right;
 	font-size: 20px;
